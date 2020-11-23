@@ -1,0 +1,68 @@
+INFO  06:12:05 Application started. Press Ctrl+C to shut down.
+INFO  06:12:05 Application started. Press Ctrl+C to shut down.
+INFO  06:12:05 Hosting environment: Development
+INFO  06:12:05 Hosting environment: Development
+INFO  06:12:05 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  06:12:05 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  06:12:26 Http GET is accessed
+INFO  06:12:31 list is reviewed
+INFO  06:12:34 Http GET is accessed
+INFO  06:12:34 list is reviewed
+INFO  06:12:36 Http GET is accessed
+INFO  06:12:36 list is reviewed
+INFO  06:13:00 Http GETByid is accessed
+INFO  06:13:00 4th book is shown 
+INFO  01:40:50 Application started. Press Ctrl+C to shut down.
+INFO  01:40:50 Application started. Press Ctrl+C to shut down.
+INFO  01:40:50 Hosting environment: Development
+INFO  01:40:50 Hosting environment: Development
+INFO  01:40:50 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  01:40:50 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  01:41:11 Http GET is accessed
+INFO  01:41:26 list is reviewed
+INFO  01:41:48 Http GETByid is accessed
+INFO  01:41:48 2th book is shown 
+INFO  11:12:44 Application started. Press Ctrl+C to shut down.
+INFO  11:12:44 Application started. Press Ctrl+C to shut down.
+INFO  11:12:44 Hosting environment: Development
+INFO  11:12:44 Hosting environment: Development
+INFO  11:12:44 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  11:12:44 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  11:13:01 Http GET is accessed
+INFO  11:13:11 list is reviewed
+INFO  12:53:21 Application started. Press Ctrl+C to shut down.
+INFO  12:53:21 Application started. Press Ctrl+C to shut down.
+INFO  12:53:21 Hosting environment: Development
+INFO  12:53:21 Hosting environment: Development
+INFO  12:53:21 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  12:53:21 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  12:54:46 Http GET is accessed
+INFO  12:54:49 list is reviewed
+INFO  03:38:37 Application started. Press Ctrl+C to shut down.
+INFO  03:38:37 Application started. Press Ctrl+C to shut down.
+INFO  03:38:37 Hosting environment: Development
+INFO  03:38:37 Hosting environment: Development
+INFO  03:38:37 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  03:38:37 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  03:50:56 Http GET is accessed
+INFO  03:50:57 list is reviewed
+INFO  03:53:27 Http GET is accessed
+INFO  03:53:27 list is reviewed
+INFO  04:00:21 Http GET is accessed
+INFO  04:00:21 list is reviewed
+INFO  04:00:32 Http GET is accessed
+INFO  04:00:32 list is reviewed
+INFO  04:01:13 Http GET is accessed
+INFO  04:01:13 list is reviewed
+INFO  04:01:35 Http GET is accessed
+INFO  04:01:35 list is reviewed
+INFO  05:51:31 Application started. Press Ctrl+C to shut down.
+INFO  05:51:31 Application started. Press Ctrl+C to shut down.
+INFO  05:51:31 Hosting environment: Development
+INFO  05:51:31 Hosting environment: Development
+INFO  05:51:31 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  05:51:31 Content root path: C:\Users\sridh\source\repos\Solution2\BooksList
+INFO  06:03:34 Http GET is accessed
+INFO  06:03:39 list is reviewed
+INFO  06:04:14 Http GET is accessed
+INFO  06:04:14 list is reviewed

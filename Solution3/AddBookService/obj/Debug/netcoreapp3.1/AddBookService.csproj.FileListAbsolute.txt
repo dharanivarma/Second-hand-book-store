@@ -1,0 +1,168 @@
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.exe
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.deps.json
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.runtimeconfig.json
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.runtimeconfig.dev.json
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.pdb
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.csprojAssemblyReference.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.AssemblyInfoInputs.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.AssemblyInfo.cs
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.csproj.CoreCompileInputs.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\staticwebassets\AddBookService.StaticWebAssets.Manifest.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\staticwebassets\AddBookService.StaticWebAssets.xml
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AddBookService.styles.css
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.RazorTargetAssemblyInfo.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.csproj.CopyComplete
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.pdb
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.genruntimeconfig.cache
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Log4NetAppender.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\sridh\source\repos\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.exe
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.deps.json
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.runtimeconfig.json
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.runtimeconfig.dev.json
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\AddBookService.pdb
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Log4NetAppender.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.csprojAssemblyReference.cache
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.AssemblyInfoInputs.cache
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.AssemblyInfo.cs
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.csproj.CoreCompileInputs.cache
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\staticwebassets\AddBookService.StaticWebAssets.Manifest.cache
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\staticwebassets\AddBookService.StaticWebAssets.xml
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AddBookService.styles.css
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.RazorTargetAssemblyInfo.cache
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.csproj.CopyComplete
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.dll
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.pdb
+C:\Users\sridh\source\repos\Second hand book store\Solution3\AddBookService\obj\Debug\netcoreapp3.1\AddBookService.genruntimeconfig.cache
